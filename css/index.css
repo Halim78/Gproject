@@ -6,6 +6,13 @@ h1 {
     text-align: center;
 }
 
+.body_card{
+    padding-left : 10px !important;
+    padding-right : 10px !important;
+
+     /* padding-left: ($spacer * .5) !important; */
+}
+
 @media (max-width:767px) {
     img { height:200;}
 }
