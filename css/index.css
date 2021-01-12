@@ -9,6 +9,12 @@ body{
 h1 {
     text-align: center;
     font-size: 60px;
+    margin-top: 10px; 
+    margin-bottom: 100px; 
+}
+
+h2{
+    font-size: 40px;
 }
 
 .main_title{
@@ -20,8 +26,16 @@ h1 {
     padding-top : 30px !important;
 }
 
-h2{
-    font-size: 40px;
+.logo_dev{
+    margin-top: 20px; 
+    display: inline-block;
+}
+
+.image_famille{
+    height: 40%;
+    width: 300;
+    padding-left : 10px !important;
+    padding-right : 10px !important;
 }
 
 .body_card{
