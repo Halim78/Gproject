@@ -30,7 +30,13 @@ img{
 
 .card-title{
     margin-top: -4%;
-    margin-left: 5px;
+    margin-left: 30px;
+}
+
+.date_text{
+    margin-top: -14%;
+    color: gray;
+
 }
 
 .card1_text{
