@@ -4,14 +4,24 @@
 
 body{
     font-family: Garamond, serif;
-    background-color: #e8f1fa;
+    background-color: #f4f6f9;
 }
 
 h1 {
     text-align: center;
     font-size: 60px;
     margin-top: 10px; 
-    margin-bottom: 100px; 
+}
+
+.bloc_title{
+    margin-bottom: 120px; 
+}
+
+img{
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
 }
 
 .first_card{
@@ -25,12 +35,17 @@ h1 {
 
 .card1_text{
     font-size: 20px;
-    margin-left: 25px;
+    margin-left: 30px;
 
 }
 
 h2{
     font-size: 35px;
+}
+
+.subtitle{
+    color: grey;
+    text-align: center;
 }
 
 .main_title{
@@ -61,6 +76,13 @@ h2{
 }
 
 .body_card2{
+    margin-top: 100px;
+    padding-left : 0px !important;
+    padding-right : 0px !important;
+    padding-top : 20px !important;
+}
+
+.body_card3{
     margin-top: 100px;
     padding-left : 0px !important;
     padding-right : 0px !important;
